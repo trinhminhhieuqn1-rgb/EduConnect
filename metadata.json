@@ -1,0 +1,6 @@
+{
+  "name": "EduConnect - Nền Tảng Học Trực Tuyến Thông Minh",
+  "description": "Nền tảng kết nối dạy và học trực tuyến hiện đại dành cho giáo viên, học sinh và nhà trường với quản lý lớp học, bài giảng, bài kiểm tra trắc nghiệm tự động và bảng điểm chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
